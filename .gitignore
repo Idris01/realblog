@@ -5,3 +5,5 @@ assets
 db.sqlite3
 *.map
 Pipfile.lock
+__pycache__
+migrations
